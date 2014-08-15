@@ -5,7 +5,7 @@ This is the repository for the Reproducible Research  Assessments
 
 
 
-Peer Assessmet 1
+Peer Assessment 1
 ====================
 
 ## Introduction
